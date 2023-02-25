@@ -50,11 +50,9 @@ require (
 	github.com/xlab/treeprint v1.1.0 // indirect
 	github.com/zclconf/go-cty v1.8.4
 	go.starlark.net v0.0.0-20210406145628-7a1108eaa012 // indirect
-	golang.org/x/mod v0.4.2
-	golang.org/x/net v0.0.0-20210414194228-064579744ee0 // indirect
+	golang.org/x/mod v0.6.0-dev.0.20220419223038-86c51ed26bb4
+	golang.org/x/net v0.7.0 // indirect
 	golang.org/x/oauth2 v0.0.0-20210413134643-5e61552d6c78 // indirect
-	golang.org/x/term v0.0.0-20210406210042-72f3dc4e9b72 // indirect
-	golang.org/x/tools v0.1.1-0.20210302220138-2ac05c832e1a // indirect
 	google.golang.org/api v0.44.0 // indirect
 	google.golang.org/genproto v0.0.0-20210415145412-64678f1ae2d5 // indirect
 	google.golang.org/grpc v1.37.0
